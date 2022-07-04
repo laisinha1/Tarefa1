@@ -1,0 +1,19 @@
+.inicio {
+    background-color: #FFF;
+    border-color: darkgray;
+    margin-left: 30px; 
+    width: 280px;
+    height: 100px;
+    margin-top: 40px;
+    color: #000;
+    }
+    
+    .botoes{
+        margin-left: 350px;   
+    }
+    
+    .inicio:hover{
+        background-color: #0085A1;
+        color: #FFF;
+        background-color: 0085A1;
+    }
